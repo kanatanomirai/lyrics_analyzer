@@ -39,7 +39,9 @@
 4. プログラムを実行します。  
 歌詞を解析したい場合は、lyrics_analyze.phpを、曲タイトルを解析したい場合は、musictitle_analyze.phpを実行してください。  
   
-  
+  
+何かご質問などありましたら[作者Twitter](https://twitter.com/kanatano_mirai)へどうぞ。
+  
 # English
 This is a program that morphologically analyzes lyrics and stores the results in a database.  
   
@@ -79,3 +81,6 @@ This program uses MySQL.
 
 4. Run the program.  
 If you want to analyze lyrics, please run lyrics_analyze.php, if you want to analyze the song title, please run musictitle_analyze.php.  
+  
+  
+If you have any any questions please to [Twitter](https://twitter.com/kanatano_mirai).
