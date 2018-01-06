@@ -43,7 +43,7 @@
 何かご質問などありましたら[作者Twitter](https://twitter.com/kanatano_mirai)へどうぞ。
   
 # English
-This is a program that morphologically analyzes lyrics and stores the results in a database.  
+This is a program that morphologically analyzes lyrics and stores the results in a database.(Japanese only)  
   
 # System Requirements 
 
