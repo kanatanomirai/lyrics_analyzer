@@ -83,4 +83,4 @@ This program uses MySQL.
 If you want to analyze lyrics, please run lyrics_analyze.php, if you want to analyze the song title, please run musictitle_analyze.php.  
   
   
-If you have any any questions please to [Twitter](https://twitter.com/kanatano_mirai).
+If you have any questions please to [Twitter](https://twitter.com/kanatano_mirai).
